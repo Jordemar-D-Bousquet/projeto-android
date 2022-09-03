@@ -7,5 +7,5 @@ Tcenologias Utilizadas:
 
 
 
-Acesse o site:
+Acesse o site clicando
 [Aqui](https://jordemar-d-bousquet.github.io/projeto-android/)
